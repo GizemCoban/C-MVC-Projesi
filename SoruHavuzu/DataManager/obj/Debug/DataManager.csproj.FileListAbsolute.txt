@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\SoruHavuzu\DataManager\bin\Debug\DataManager.dll
+C:\Users\ASUS\Desktop\SoruHavuzu\DataManager\bin\Debug\DataManager.pdb
+C:\Users\ASUS\Desktop\SoruHavuzu\DataManager\bin\Debug\Business.dll
+C:\Users\ASUS\Desktop\SoruHavuzu\DataManager\bin\Debug\Model.dll
+C:\Users\ASUS\Desktop\SoruHavuzu\DataManager\bin\Debug\Business.pdb
+C:\Users\ASUS\Desktop\SoruHavuzu\DataManager\bin\Debug\Model.pdb
+C:\Users\ASUS\Desktop\SoruHavuzu\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\SoruHavuzu\DataManager\obj\Debug\DataManager.dll
+C:\Users\ASUS\Desktop\SoruHavuzu\DataManager\obj\Debug\DataManager.pdb

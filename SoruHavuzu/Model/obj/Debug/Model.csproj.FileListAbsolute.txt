@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\SoruHavuzu\Model\bin\Debug\Model.dll
+C:\Users\ASUS\Desktop\SoruHavuzu\Model\bin\Debug\Model.pdb
+C:\Users\ASUS\Desktop\SoruHavuzu\Model\bin\Debug\Business.dll
+C:\Users\ASUS\Desktop\SoruHavuzu\Model\bin\Debug\Business.pdb
+C:\Users\ASUS\Desktop\SoruHavuzu\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\SoruHavuzu\Model\obj\Debug\Model.dll
+C:\Users\ASUS\Desktop\SoruHavuzu\Model\obj\Debug\Model.pdb

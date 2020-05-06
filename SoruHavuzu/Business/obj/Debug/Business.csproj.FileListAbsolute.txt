@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\SoruHavuzu\Business\bin\Debug\Business.dll
+C:\Users\ASUS\Desktop\SoruHavuzu\Business\bin\Debug\Business.pdb
+C:\Users\ASUS\Desktop\SoruHavuzu\Business\obj\Debug\Business.dll
+C:\Users\ASUS\Desktop\SoruHavuzu\Business\obj\Debug\Business.pdb
+C:\Users\ASUS\Desktop\SoruHavuzu\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
